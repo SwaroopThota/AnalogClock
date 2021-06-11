@@ -54,6 +54,7 @@
 }
 #line{
     position: absolute;
+    font-size: 3vmax;
     width: 1px;
     height: 10%;
     top:44%;
