@@ -14,7 +14,7 @@
     width:  40vmax;
     height: 40vmax;
     position: relative;
-    background-image: url(/Clock/clock.png);
+    background-image: url(clock.png);
     background-size: 100%;
     background-repeat: no-repeat;
 }
