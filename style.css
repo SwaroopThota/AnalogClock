@@ -44,9 +44,9 @@
 }
 #date{
     position: absolute;
-    text-align: center;
     width: 23%;
     height: 10%;
+    font-size: 3vmax;
     border: 1px solid black;
     top: 44%;
     left: 62%;
