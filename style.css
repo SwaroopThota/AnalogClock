@@ -47,12 +47,14 @@
     width: 23%;
     height: 10%;
     font-size: 3vmax;
+    text-align: center;
     border: 1px solid black;
     top: 44%;
     left: 62%;
 }
 #line{
     position: absolute;
+    font-size: 3vmax;
     width: 1px;
     height: 10%;
     top:44%;
