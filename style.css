@@ -54,5 +54,5 @@
 }
 #day{
     border-collapse: collapse;
-    left: 67.2%;
+    left: calc(59% + 3.2vmax);
 }
