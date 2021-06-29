@@ -7,5 +7,6 @@ setInterval(()=>{
     minutes.style.transform=`rotate(${mR}deg)`;
     seconds.style.transform=`rotate(${sR}deg)`;
     days=[" SUN"," MON"," TUE"," WED"," THU"," FRI"," SAT"];
-    document.getElementById("date").innerHTML=d.getDate()+days[d.getDay()];
+    document.getElementById("date").innerHTML=d.getDate();
+    document.getElementById("day").innerHTML=days[d.getDay()];
 },1000);
