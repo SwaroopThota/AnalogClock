@@ -49,10 +49,11 @@
     height: 10%;
     font-size: 3vmax;
     border: 1px solid black;
+    border-right-color: transparent;
     top: 44%;
     left: 59%;
 }
 #day{
-    border-collapse: collapse;
-    left: calc(59% + 3.2vmax);
+    border-right-color: black;
+    left: calc(59% + 3.3vmax);
 }
